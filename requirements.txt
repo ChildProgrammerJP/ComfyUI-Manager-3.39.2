@@ -9,3 +9,7 @@ typing-extensions==4.15.0
 toml==0.10.2
 uv==0.9.24
 chardet==5.2.0
+
+# RTX 5090：ComfyUI v0.9.2
+# GitPython==3.1.46
+# typer==0.21.1
